@@ -37,6 +37,8 @@ git push origin master
 2、用命令克隆一个本地库
 git clone git@github.com:account/repository.git
 
+git remote rm origin
+--删除远程库
 
 
 Gitee上传自己的SSH公钥，操作和GitHub一样
