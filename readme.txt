@@ -18,6 +18,7 @@ git checkout -- file （丢弃对工作区的修改）
 git reset head file 然后再git checkout -- file (丢弃对暂存区的修改)
 git rm file （删除一个文件）
 
+拥有本地库后关联远程库操作
 1、创建SSH Key
 ssh-keygen -t rsa -C "youremail@example.com"
 2、将生成的公钥放在你的GitHub账户中
@@ -30,3 +31,14 @@ ssh-keygen -t rsa -C "youremail@example.com"
 --u Git不但会把本地的master分支内容推送的远程新的master分支，还会把本地的master分支和远程的master分支关联起来
 3、之后推送到远程仓库就使用
 git push origin master
+
+先有远程库，后克隆本地库
+1、登录GitHub，创建一个新的仓库名称repository
+2、用命令克隆一个本地库
+git clone git@github.com:account/repository.git
+
+
+
+Gitee上传自己的SSH公钥，操作和GitHub一样
+
+详细教程https://www.liaoxuefeng.com/
