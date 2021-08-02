@@ -1,0 +1,9 @@
+F:\Git\ConnectVPN\ConnectVPN\obj\Debug\ConnectVPN.csproj.CoreCompileInputs.cache
+F:\Git\ConnectVPN\ConnectVPN\bin\Debug\ConnectVPN.exe.config
+F:\Git\ConnectVPN\ConnectVPN\bin\Debug\ConnectVPN.exe
+F:\Git\ConnectVPN\ConnectVPN\bin\Debug\ConnectVPN.pdb
+F:\Git\ConnectVPN\ConnectVPN\bin\Debug\DotRas.dll
+F:\Git\ConnectVPN\ConnectVPN\obj\Debug\ConnectVPN.csproj.CopyComplete
+F:\Git\ConnectVPN\ConnectVPN\obj\Debug\ConnectVPN.exe
+F:\Git\ConnectVPN\ConnectVPN\obj\Debug\ConnectVPN.pdb
+F:\Git\ConnectVPN\ConnectVPN\obj\Debug\ConnectVPN.csprojAssemblyReference.cache
